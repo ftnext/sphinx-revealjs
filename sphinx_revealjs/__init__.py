@@ -1,4 +1,7 @@
-"""Root module for sphinx-revealjs."""
+"""Root module for sphinx-revealjs.
+
+This code includes setup function to use Sphinx as extension.
+"""
 
 __version__ = '0.6.1'
 
